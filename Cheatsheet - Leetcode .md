@@ -1,11 +1,5 @@
 # Cheatsheet - Leetcode
 
-Date: June 16, 2024
-
-**Cheatsheets**[Report Issue](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues)
-
----
-
 This article will be a collection of cheat sheets that you can use as you solve problems and prepare for interviews. You will find:
 
 - Time complexity (Big O) cheat sheet
